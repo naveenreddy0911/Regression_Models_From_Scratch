@@ -9,7 +9,7 @@ This project contains implementations of Linear Regression using:
 
 ## Files
 
-- `ols.py` – Closed-form OLS solution
-- `batch_gd.py` – Batch gradient descent implementation
-- `sgd.py` – Stochastic gradient descent implementation
-- `mini_batch_gd.py` – Mini-batch gradient descent implementation
+- `LinearRegression_OLS.py` – Closed-form OLS solution
+- `LinearRegression_BGD.py` – Batch gradient descent implementation
+- `LinearRegression_SGD.py` – Stochastic gradient descent implementation
+- `LinearRegression_MiniBGD.py` – Mini-batch gradient descent implementation
